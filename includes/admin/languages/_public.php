@@ -1,0 +1,242 @@
+<?php
+
+// Exit if accessed directly.
+defined( 'ABSPATH' ) || exit;
+
+CSF::createSection(
+	$prefix,
+	array(
+		'title'  => __( 'Public Pages', 'wds-notrans' ),
+		'fields' => array(
+			array(
+				'type'  => 'subheading',
+				'title' => __( 'RSVP', 'wds-notrans' ),
+			),
+			array(
+				'id'          => 'public_rsvp_password',
+				'type'        => 'text',
+				'title'       => __( 'Password', 'wds-notrans' ),
+				'placeholder' => 'Masukkan Password...',
+				'default'     => 'Masukkan Password...',
+			),
+			array(
+				'id'          => 'public_rsvp_empty_pass',
+				'type'        => 'text',
+				'title'       => __( 'Empty Password', 'wds-notrans' ),
+				'placeholder' => 'Password tidak boleh kosong!',
+				'default'     => 'Password tidak boleh kosong!',
+			),
+			array(
+				'id'          => 'public_rsvp_incorrect_pass',
+				'type'        => 'text',
+				'title'       => __( 'Incorrect Password', 'wds-notrans' ),
+				'placeholder' => 'Password salah, silakan coba lagi!',
+				'default'     => 'Password salah, silakan coba lagi!',
+			),
+			array(
+				'id'          => 'public_rsvp_success_pass',
+				'type'        => 'text',
+				'title'       => __( 'Success Password', 'wds-notrans' ),
+				'placeholder' => 'Berhasil! Tunggu sedang memuat data RSVP.',
+				'default'     => 'Berhasil! Tunggu sedang memuat data RSVP.',
+			),
+
+			array(
+				'type'  => 'subheading',
+				'title' => __( 'Share', 'wds-notrans' ),
+			),
+			array(
+				'id'          => 'public_share_title',
+				'type'        => 'text',
+				'title'       => __( 'Share Title', 'wds-notrans' ),
+				'placeholder' => 'Bagikan Undangan',
+				'default'     => 'Bagikan Undangan',
+			),
+			array(
+				'id'          => 'public_share_guest_name',
+				'type'        => 'text',
+				'title'       => __( 'Enter Guest Name', 'wds-notrans' ),
+				'placeholder' => 'Silahkan Masukkan Nama Tamu',
+				'default'     => 'Silahkan Masukkan Nama Tamu',
+			),
+			array(
+				'id'          => 'public_share_guest_name_help',
+				'type'        => 'text',
+				'title'       => __( 'Enter Guest Name Help', 'wds-notrans' ),
+				'placeholder' => 'Gunakan baris baru untuk memisahkan nama yang akan Anda undang.',
+				'default'     => 'Gunakan baris baru untuk memisahkan nama yang akan Anda undang.',
+			),
+			array(
+				'id'          => 'public_share_restrict',
+				'type'        => 'text',
+				'title'       => __( 'Restrict', 'wds-notrans' ),
+				'placeholder' => 'Undangan hanya bisa diakses dari nama tamu diatas',
+				'default'     => 'Undangan hanya bisa diakses dari nama tamu diatas',
+			),
+			array(
+				'id'          => 'public_share_introductory_text',
+				'type'        => 'text',
+				'title'       => __( 'Text Introductory', 'wds-notrans' ),
+				'placeholder' => 'Opsi Teks Pengantar',
+				'default'     => 'Opsi Teks Pengantar',
+			),
+			array(
+				'id'          => 'public_share_introductory_select',
+				'type'        => 'text',
+				'title'       => __( 'Select Introductory', 'wds-notrans' ),
+				'placeholder' => 'Pilih pengantar',
+				'default'     => 'Pilih pengantar',
+			),
+			array(
+				'id'          => 'public_share_introductory_input',
+				'type'        => 'text',
+				'title'       => __( 'Input Introductory', 'wds-notrans' ),
+				'placeholder' => 'Silahkan Masukkan Teks Pengantar',
+				'default'     => 'Silahkan Masukkan Teks Pengantar',
+			),
+			array(
+				'id'          => 'public_share_button',
+				'type'        => 'text',
+				'title'       => __( 'Button', 'wds-notrans' ),
+				'placeholder' => 'Buat Daftar Nama Tamu',
+				'default'     => 'Buat Daftar Nama Tamu',
+			),
+			array(
+				'id'          => 'public_share_incorrect_parameter',
+				'type'        => 'text',
+				'title'       => __( 'Incorrect Parameters', 'wds-notrans' ),
+				'placeholder' => 'Parameter Postingan Salah',
+				'default'     => 'Parameter Postingan Salah',
+			),
+			array(
+				'id'          => 'public_share_empty_parameter',
+				'type'        => 'text',
+				'title'       => __( 'Empty Parameters', 'wds-notrans' ),
+				'placeholder' => 'Tidak Ada Parameter Tersedia',
+				'default'     => 'Tidak Ada Parameter Tersedia',
+			),
+			array(
+				'id'          => 'public_share_error_subtitle',
+				'type'        => 'text',
+				'title'       => __( 'Error Subtitle', 'wds-notrans' ),
+				'placeholder' => 'Harap tambahkan parameter ke url halaman ini ke /share/?id=[slug-undangan]',
+				'default'     => 'Harap tambahkan parameter ke url halaman ini ke /share/?id=[slug-undangan]',
+			),
+			array(
+				'id'          => 'public_share_notice_success',
+				'type'        => 'text',
+				'title'       => __( 'Notice Success', 'wds-notrans' ),
+				'placeholder' => 'Daftar nama tamu berhasil diperbarui',
+				'default'     => 'Daftar nama tamu berhasil diperbarui',
+			),
+			array(
+				'id'          => 'public_share_copy_link_success',
+				'type'        => 'text',
+				'title'       => __( 'Copy Link Success', 'wds-notrans' ),
+				'placeholder' => 'Link undangan berhasil disalin',
+				'default'     => 'Link undangan berhasil disalin',
+			),
+			array(
+				'id'          => 'public_share_copy_link_failed',
+				'type'        => 'text',
+				'title'       => __( 'Failed Link Success', 'wds-notrans' ),
+				'placeholder' => 'Link undangan gagal disalin',
+				'default'     => 'Link undangan gagal disalin',
+			),
+			array(
+				'id'          => 'public_share_copy_msg_success',
+				'type'        => 'text',
+				'title'       => __( 'Copy Message Success', 'wds-notrans' ),
+				'placeholder' => 'Pesan berhasil disalin',
+				'default'     => 'Pesan berhasil disalin',
+			),
+			array(
+				'id'          => 'public_share_copy_msg_failed',
+				'type'        => 'text',
+				'title'       => __( 'Copy Message Failed', 'wds-notrans' ),
+				'placeholder' => 'Pesan gagal disalin',
+				'default'     => 'Pesan gagal disalin',
+			),
+
+			array(
+				'type'  => 'subheading',
+				'title' => __( 'Share Variable', 'wds-notrans' ),
+			),
+			array(
+				'id'          => 'public_share_var_name',
+				'type'        => 'text',
+				'title'       => __( 'Name', 'wds-notrans' ),
+				'placeholder' => 'nama',
+				'default'     => 'nama',
+			),
+			array(
+				'id'          => 'public_share_var_title',
+				'type'        => 'text',
+				'title'       => __( 'Title', 'wds-notrans' ),
+				'placeholder' => 'judul-undangan',
+				'default'     => 'judul-undangan',
+			),
+			array(
+				'id'          => 'public_share_var_link',
+				'type'        => 'text',
+				'title'       => __( 'Link', 'wds-notrans' ),
+				'placeholder' => 'link-undangan',
+				'default'     => 'link-undangan',
+			),
+			array(
+				'id'          => 'public_share_var_bride',
+				'type'        => 'text',
+				'title'       => __( 'Bride', 'wds-notrans' ),
+				'placeholder' => 'mempelai-wanita',
+				'default'     => 'mempelai-wanita',
+			),
+			array(
+				'id'          => 'public_share_var_groom',
+				'type'        => 'text',
+				'title'       => __( 'Groom', 'wds-notrans' ),
+				'placeholder' => 'mempelai-pria',
+				'default'     => 'mempelai-pria',
+			),
+			array(
+				'id'          => 'public_share_var_inviting',
+				'type'        => 'text',
+				'title'       => __( 'Inviting', 'wds-notrans' ),
+				'placeholder' => 'yang-mengundang',
+				'default'     => 'yang-mengundang',
+			),
+
+			array(
+				'type'  => 'subheading',
+				'title' => __( 'Share Client', 'wds-notrans' ),
+			),
+			array(
+				'id'          => 'public_share_client_error',
+				'type'        => 'text',
+				'title'       => __( 'Error', 'wds-notrans' ),
+				'placeholder' => 'Harap tambahkan parameter ke url halaman ini ke /share/client/?id=[slug-undangan]',
+				'default'     => 'Harap tambahkan parameter ke url halaman ini ke /share/client/?id=[slug-undangan]',
+			),
+			array(
+				'id'          => 'public_share_client_title',
+				'type'        => 'text',
+				'title'       => __( 'Share Client Title', 'wds-notrans' ),
+				'placeholder' => 'Kirim Undangan ke Client',
+				'default'     => 'Kirim Undangan ke Client',
+			),
+			array(
+				'id'          => 'public_share_client_message',
+				'type'        => 'text',
+				'title'       => __( 'Share Client Message', 'wds-notrans' ),
+				'placeholder' => 'Masukkan Pesan',
+				'default'     => 'Masukkan Pesan',
+			),
+			array(
+				'id'          => 'public_share_client_button',
+				'type'        => 'text',
+				'title'       => __( 'Share Client Button', 'wds-notrans' ),
+				'placeholder' => 'Salin Pesan',
+				'default'     => 'Salin Pesan',
+			),
+		),
+	)
+);
