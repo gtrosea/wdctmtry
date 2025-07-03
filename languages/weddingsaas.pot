@@ -1,0 +1,1845 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WeddingSaas Membership Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-29 05:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: weddingsaas"
+
+#. %s: The key
+#: includes/classes/builder.php:575 includes/classes/builder.php:613
+#, php-format
+msgid "\"%s\" adalah kolom yang tidak valid"
+msgstr ""
+
+#: includes/classes/updater.php:277
+#, php-format
+msgid "%1$sLihat detail versi %2$s%3$s atau %4$sperbarui sekarang%5$s."
+msgstr ""
+
+#. 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: includes/classes/updater.php:269
+#, php-format
+msgid "%1$sLihat detail versi %2$s%3$s."
+msgstr ""
+
+#: includes/engine/tools/contact.php:121
+msgid "-- Pilih group --"
+msgstr ""
+
+#: includes/engine/tools/contact.php:48 includes/engine/tools/contact.php:225
+msgid "-- Pilih list ID --"
+msgstr ""
+
+#. %1$s: Url license page, %2$s: Product name, %3$s: Member area url
+#: includes/classes/handler.php:337
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Aktifkan</a> %2$s untuk mendapatkan pembaruan dan dukungan "
+"otomatis. Anda bisa mendapatkan kunci lisensi Anda <a href=\"%3$s\" "
+"target=\"_blank\">di sini</a>."
+msgstr ""
+
+#: includes/admin/engine/shortcode/audio.php:61
+msgid ""
+"<b>Note:</b> Custom Audio Youtube tidak berjalan di browser media sosial "
+"seperti instagram, facebook dan telegram."
+msgstr ""
+
+#: includes/admin/addons.php:26
+msgid "Addon Plugin Belum Aktif"
+msgstr ""
+
+#: includes/admin/metabox/user.php:65
+msgid "Akses Produk"
+msgstr ""
+
+#: includes/admin/metabox/user.php:19 includes/admin/metabox/user.php:130
+msgid "Aktif"
+msgstr ""
+
+#: includes/admin/metabox/post.php:104 includes/admin/metabox/post.php:147
+#: includes/admin/templates/license.php:45
+#: includes/admin/settings/general/transaction.php:188
+msgid "Aktifkan"
+msgstr ""
+
+#: includes/admin/addons.php:35
+msgid "Aktifkan Addon"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:83
+msgid ""
+"Aktifkan fitur ini jika Anda ingin mengaktifkan kode unik di pembayaran."
+msgstr ""
+
+#: includes/admin/engine/content/tracking.php:91
+msgid "Aktifkan fitur ini jika Anda ingin mengaktifkan konversi meta."
+msgstr ""
+
+#: includes/admin/engine/content/tracking.php:36
+msgid "Aktifkan fitur ini jika Anda ingin mengaktifkan piksel Facebook."
+msgstr ""
+
+#: includes/admin/settings/fields.php:128
+msgid ""
+"Aktifkan fitur ini jika Anda ingin menghapus semua data saat plugin dihapus."
+msgstr ""
+
+#: includes/admin/languages/_theme.php:739
+msgid "Aktifkan Fitur Notifikasi RSVP"
+msgstr ""
+
+#: includes/admin/settings/membership/share.php:105
+msgid "Aktifkan Pembatasan Undangan"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:45
+msgid "Aktivasi Akun"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:52
+msgid "Akumulasi Kuota Undangan"
+msgstr ""
+
+#: includes/admin/metabox/post.php:119
+msgid "Alihkan pengguna ke halaman lain jika tidak memiliki akses."
+msgstr ""
+
+#. Description of the plugin
+msgid "All in one Wedding Service Management plugin."
+msgstr ""
+
+#: includes/admin/engine/tools/contact.php:77
+msgid "Anda bisa dapatkan api key di menu profile."
+msgstr ""
+
+#: includes/admin/engine/content/custome-menu.php:53
+#: includes/admin/engine/tools/notification.php:146
+msgid ""
+"Anda bisa membatasi berdasarkan membership. Kosongkan jika tidak ingin "
+"dibatasi."
+msgstr ""
+
+#: includes/admin/engine/content/custome-menu.php:43
+#: includes/admin/engine/tools/notification.php:80
+#: includes/admin/engine/tools/notification.php:136
+msgid ""
+"Anda bisa membatasi berdasarkan user group. Kosongkan jika tidak ingin "
+"dibatasi."
+msgstr ""
+
+#: includes/admin/engine/content/custome-menu.php:27
+msgid ""
+"Anda dapat menggunakan ikon <a href=\"https://icons.getbootstrap.com\" "
+"target=\"_blank\">DI SINI</a>, masukkan tanpa \"bi bi-\"."
+msgstr ""
+
+#: includes/core/abstracts/notification.php:129
+#: includes/core/abstracts/notification.php:200
+msgid "Anda harus menetapkan setidaknya 1 penerima."
+msgstr ""
+
+#: includes/integrations/elementor/commentpress.php:230
+msgid ""
+"Anda telah memberikan ucapan. Harap tunggu beberapa menit sebelum memberikan "
+"ucapan lainnya."
+msgstr ""
+
+#: includes/classes/updater.php:514
+msgid "Anda tidak memiliki izin untuk menginstal pembaruan plugin"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:59
+msgid "Background untuk Mode Gelap"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:50
+msgid "Background untuk Mode Terang"
+msgstr ""
+
+#: includes/admin/languages/fields.php:33
+msgid "Bahasa Default"
+msgstr ""
+
+#: includes/functions/invitation.php:566
+msgid "baru saja"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:142
+msgid ""
+"Batasi Popup<br><span style=\"font-weight:400\">Anda bisa membatasi popup "
+"ini berdasarkan kategori, sub tema dan membership.</span>"
+msgstr ""
+
+#: includes/functions/invitation.php:565
+msgid "Beberapa waktu"
+msgstr ""
+
+#: includes/functions/invitation.php:548
+msgid "Beberapa waktu yang lalu"
+msgstr ""
+
+#: includes/admin/engine/content/sales-proof.php:70
+msgid "Berapa lama notifikasi muncul (detik)."
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:92
+msgid "Berkurang"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:91
+msgid "Bertambah"
+msgstr ""
+
+#: includes/admin/metabox/user.php:32
+msgid "Biarkan kosong jika pengguna merupakan pengguna yang aktif selamanya."
+msgstr ""
+
+#: includes/admin/metabox/user.php:95
+msgid "Biarkan kosong jika undangan merupakan undangan yang aktif selamanya."
+msgstr ""
+
+#: includes/admin/engine/tools/contact.php:140
+msgid ""
+"Brand ID yang ingin Anda dapatkan daftarnya. Brand ID dapat ditemukan di "
+"bawah halaman \"Brand\" yang bernama ID."
+msgstr ""
+
+#: includes/integrations/rankmath.php:133
+#: includes/admin/settings/addon/replica.php:203
+#: includes/admin/settings/addon/replica.php:221
+msgid "Buat undangan digital kamu semakin berkesan dengan sentuhan digital"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:78
+msgid "Buka Undangan"
+msgstr ""
+
+#: includes/admin/metabox/user.php:103
+msgid "Bulan"
+msgstr ""
+
+#: includes/functions/invitation.php:571
+msgid "bulan"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:117
+msgid "Catatan"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:48
+msgid "Catatan Domain"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:24
+msgid "Catatan Kolom"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:42
+msgid "Catatan Subdomain"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:93
+msgid ""
+"Catatan: Jika jumlah total RSVP kurang dari jumlah RSVP per halaman, pager "
+"tidak akan ditampilkan."
+msgstr ""
+
+#: templates/public/share.php:4
+msgid ""
+"Contoh:\n"
+"Nama Tamu 1\n"
+"Nama Tamu 2\n"
+"Nama Tamu 3"
+msgstr ""
+
+#: templates/shortcode/audio.php:44
+msgid "Contoh: 10"
+msgstr ""
+
+#: templates/shortcode/audio.php:50
+msgid "Contoh: 180"
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:22
+msgid "Cookie Afiliasi"
+msgstr ""
+
+#: includes/admin/addons.php:48
+msgid "Daftar Addon"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:180
+msgid "Daftar Sekarang"
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:51
+msgid "Data"
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:46
+msgid "Data Akun Bank"
+msgstr ""
+
+#: includes/classes/builder.php:562
+msgid "Data yang diperbarui tidak boleh kosong"
+msgstr ""
+
+#: includes/admin/engine/tools/notification.php:49
+msgid "Delay pertama kali popup muncul dalam hitungan detik."
+msgstr ""
+
+#: includes/admin/metabox/user.php:182
+#: includes/admin/settings/addon/replica.php:202
+#: includes/admin/settings/addon/replica.php:220
+msgid "Deskripsi"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:67
+msgid "Deskripsi Brand Default"
+msgstr ""
+
+#: includes/integrations/rankmath.php:93
+msgid "Deskripsi Undangan"
+msgstr ""
+
+#: includes/functions/invitation.php:576
+msgid "detik"
+msgstr ""
+
+#: includes/admin/settings/addon/theme.php:165
+msgid ""
+"Disarankan menggunakan warna gelap agar sesuai dengan text. (hanya untuk V1)"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:95
+msgid "Domain Dihapus"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:89
+msgid "Domain Diperbarui"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:83
+msgid "Domain Ditambahkan"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:48
+msgid "Domain Host"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:71
+msgid "Domain Kustom Kosong"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:77
+msgid "Domain Sudah Digunakan"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:49
+msgid "Domain utama Anda, domain tempat Anda menginstal WDS Pro."
+msgstr ""
+
+#: includes/admin/metabox/user.php:94
+msgid "Durasi"
+msgstr ""
+
+#: includes/contents/post.php:252 includes/contents/post.php:275
+msgid "Edit Undangan"
+msgstr ""
+
+#: includes/admin/addons.php:86 includes/admin/engine/fields.php:96
+#: includes/admin/languages/fields.php:67
+#: includes/admin/settings/fields.php:131
+msgid "Ekspor Impor Data"
+msgstr ""
+
+#: includes/admin/languages/_theme.php:1106
+msgid "Enable Text 3"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:15
+msgid "Fitur Branding"
+msgstr ""
+
+#: includes/admin/engine/tools/optimization.php:47
+msgid ""
+"Fitur ini berjalan jika Anda tidak menggunakan \"Convert Image to WebP\"."
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:183
+msgid "Fitur ini digunakan hanya di halaman checkout"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:123
+msgid "Format Invoice"
+msgstr ""
+
+#: includes/classes/builder.php:544
+msgid "Gagal memasukkan data ke dalam database"
+msgstr ""
+
+#: includes/admin/metabox/post.php:436
+msgid "Gunakan untuk mengganti foto cover depan."
+msgstr ""
+
+#: includes/admin/metabox/post.php:445
+msgid "Gunakan untuk mengganti foto khusus template non wedding."
+msgstr ""
+
+#: includes/admin/metabox/post.php:463
+msgid "Gunakan untuk mengganti foto mempelai pria khusus template wedding."
+msgstr ""
+
+#: includes/admin/metabox/post.php:454
+msgid "Gunakan untuk mengganti foto mempelai wanita khusus template wedding."
+msgstr ""
+
+#: includes/admin/settings/fields.php:127
+msgid "Hapus Data"
+msgstr ""
+
+#: includes/admin/metabox/post.php:47
+msgid "Hapus Otomatis"
+msgstr ""
+
+#: includes/admin/addons.php:65
+msgid "Harga"
+msgstr ""
+
+#: includes/admin/metabox/user.php:188
+msgid "Harga Undangan"
+msgstr ""
+
+#: includes/admin/metabox/user.php:102
+msgid "Hari"
+msgstr ""
+
+#: includes/functions/invitation.php:573
+msgid "hari"
+msgstr ""
+
+#: includes/admin/engine/engine/shortcode.php:17
+msgid "Hasil shortcode..."
+msgstr ""
+
+#: weddingsaas.php:183
+msgid "Hati-hati!"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:65
+msgid "HOST kosong"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://weddingsaas.id/"
+msgstr ""
+
+#: includes/classes/updater.php:264
+msgid "Hubungi administrator jaringan Anda untuk menginstal pembaruan."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:153
+msgid "Hubungi Sekarang"
+msgstr ""
+
+#: includes/admin/addons.php:77
+msgid "Hubungkan Produk Digital"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:23
+msgid "Icon"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:77
+msgid "Icon Semua Kategori"
+msgstr ""
+
+#: includes/integrations/elementor/commentpress.php:202
+msgid "ID undangan tidak ditemukan."
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:69
+msgid "Iframe"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:50
+#: includes/admin/settings/membership/invitation-edit.php:130
+msgid "Ikon"
+msgstr ""
+
+#: includes/admin/engine/tools/optimization.php:55
+msgid ""
+"Ini akan menghapus SEMUA metadata: EXIF, komentar, profil warna, lokasi, dan "
+"apa pun yang bukan merupakan data piksel."
+msgstr ""
+
+#: includes/admin/engine/tools/notification.php:56
+msgid ""
+"Interval waktu untuk memunculkan kembali popup setelah ditutup dalam "
+"hitungan hari."
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:39
+#: includes/admin/settings/gateway/midtrans.php:39
+#: includes/admin/settings/gateway/qris.php:39
+#: includes/admin/settings/gateway/xendit.php:39
+msgid "Intruksi"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:114
+msgid "Invoice"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:202
+msgid "Isi"
+msgstr ""
+
+#: includes/core/abstracts/notification.php:137
+#: includes/core/abstracts/notification.php:204
+msgid "Isi harus didefinisikan."
+msgstr ""
+
+#: includes/functions/invitation.php:574
+msgid "jam"
+msgstr ""
+
+#: includes/integrations/rankmath.php:63
+msgid "Jasa Undangan Digital"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:214
+msgid "Jasa Undangan Digital Terlengkap"
+msgstr ""
+
+#: includes/admin/engine/tools/notification.php:63
+msgid "Jika Anda menggunakan gambar, tambahkan class \"w-100 h-100\""
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:146
+msgid "Jika Anda menggunakan Tema WDS, biarkan kosong, karena ini otomatis."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:37
+msgid ""
+"Jika Anda menginstal WDS Pro pada subdomain, maka pilih Custom Domain Only."
+msgstr ""
+
+#: includes/integrations/elementor/widgets/invitation-theme.php:95
+msgid ""
+"Jika Anda pilih kategori tertentu, sub kategori dan sub tema tidak "
+"ditampilkan."
+msgstr ""
+
+#: includes/admin/addons.php:42
+msgid ""
+"Jika di aktifkan, harga addon tidak akan dikurangi dengan diskon saat "
+"checkout."
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:30
+msgid ""
+"Jika diaktifkan, afiliasi akan mendapat komisi lagi pada saat pengguna yang "
+"daftar melalui afiliasi tersebut memperpanjang membership."
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:16
+msgid ""
+"Jika diaktifkan, akan menampilkan formulir branding untuk reseller di menu "
+"pengaturan akun."
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:53
+msgid ""
+"Jika diaktifkan, ketika pengguna kadaluarsa kuota undangan akan "
+"diakumulasikan, jika tidak undangan tidak diakumulasi / hangus."
+msgstr ""
+
+#: includes/admin/settings/gateway/duitku.php:44
+msgid ""
+"Jika diaktifkan, link pembayaran pada notifikasi email dan whatsapp "
+"diarahkan ke website Duitku."
+msgstr ""
+
+#: includes/admin/settings/gateway/midtrans.php:91
+msgid ""
+"Jika diaktifkan, link pembayaran pada notifikasi email dan whatsapp "
+"diarahkan ke website Midtrans."
+msgstr ""
+
+#: includes/admin/settings/gateway/tripay.php:55
+msgid ""
+"Jika diaktifkan, link pembayaran pada notifikasi email dan whatsapp "
+"diarahkan ke website Tripay."
+msgstr ""
+
+#: includes/admin/settings/gateway/xendit.php:89
+msgid ""
+"Jika diaktifkan, link pembayaran pada notifikasi email dan whatsapp "
+"diarahkan ke website Xendit."
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:46
+msgid ""
+"Jika diaktifkan, pengguna harus aktivasi akun terlebih dahulu melalui email "
+"/ whatsapp saat mendaftar."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:76
+msgid ""
+"Jika dicentang, tombol yang ada di halaman edit undangan tidak akan redirect "
+"langsung ke custom domain."
+msgstr ""
+
+#: includes/admin/metabox/post.php:326
+msgid "Jika dikosongkan akan menggunakan background undangan."
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:88
+msgid "Jika tidak dipilih, maka akan ditampilkan ke semua pengguna."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:148
+msgid "Jika tidak dipilih, semua kategori akan ditampilkan kepada user."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:168
+msgid "Jika tidak dipilih, semua produk akan ditampilkan kepada user."
+msgstr ""
+
+#: includes/admin/settings/membership/upgrade.php:47
+#: includes/admin/settings/membership/upgrade.php:82
+#: includes/admin/settings/membership/upgrade.php:117
+msgid "Jika tidak dipilih, semua produk ditampilkan pada halaman upgrade."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:158
+msgid "Jika tidak dipilih, semua tema akan ditampilkan kepada user."
+msgstr ""
+
+#: includes/admin/addons.php:53 includes/admin/languages/_replica.php:18
+#: includes/admin/engine/tools/notification.php:102
+#: includes/admin/settings/addon/replica.php:195
+#: includes/admin/settings/addon/replica.php:213
+#: includes/admin/settings/gateway/bank.php:32
+#: includes/admin/settings/gateway/duitku.php:76
+#: includes/admin/settings/gateway/midtrans.php:32
+#: includes/admin/settings/gateway/qris.php:32
+#: includes/admin/settings/gateway/tripay.php:87
+#: includes/admin/settings/gateway/xendit.php:32
+#: includes/admin/settings/general/transaction.php:194
+#: includes/admin/settings/membership/invitation-edit.php:123
+msgid "Judul"
+msgstr ""
+
+#: includes/integrations/rankmath.php:60 includes/integrations/rankmath.php:130
+msgid "Judul Halaman"
+msgstr ""
+
+#: includes/integrations/rankmath.php:17
+msgid "Judul Undangan"
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:45
+msgid "Jumlah Angka Desimal"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:100
+msgid "Jumlah Karakter Maksimal"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:92
+msgid "Jumlah RSVP Perhalaman"
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:25
+msgid "Kanan"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:95
+#: includes/admin/settings/membership/invitation-edit.php:147
+msgid "Kategori"
+msgstr ""
+
+#: includes/functions/invitation.php:91
+msgid "Kategori tidak ditemukan."
+msgstr ""
+
+#: includes/admin/engine/tools/optimization.php:69
+msgid ""
+"Ketika mengunggah media apa pun, WordPress secara otomatis menghasilkan "
+"ukuran ekstra lainnya. Hal ini dapat menghabiskan ruang ekstra di server "
+"Anda. Dengan menggunakan fitur ini, Anda dapat menonaktifkan gambar-gambar "
+"ekstra tersebut."
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:24
+msgid "Kiri"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:30
+msgid "Klik disini"
+msgstr ""
+
+#: includes/admin/addons.php:59
+msgid "Kode"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:77
+#: includes/admin/settings/general/transaction.php:82
+msgid "Kode Unik"
+msgstr ""
+
+#: includes/classes/builder.php:558
+msgid "Kolom basis data kosong"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:118
+msgid "Kolom ini hanya tampil di dashboard admin."
+msgstr ""
+
+#: includes/admin/metabox/user.php:137
+msgid "Komisi Afiliasi Kustom (%)"
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:29
+msgid "Komisi Berulang"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:136
+msgid "Konfirmasi Pembayaran"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:168
+msgid "Kontent WhatsApp"
+msgstr ""
+
+#: includes/admin/engine/tools/optimization.php:40
+msgid "Konversi Gambar yang Diunggah ke Format WebP."
+msgstr ""
+
+#: includes/admin/languages/_theme.php:1369
+#: includes/admin/languages/_theme.php:1384
+#: includes/admin/languages/_theme.php:1399
+#: includes/admin/languages/_theme.php:1414
+msgid "Kosongkan jika ingin menggunakan data asli."
+msgstr ""
+
+#: includes/admin/engine/tools/contact.php:132
+msgid "Kunci API Anda, tersedia di pengaturan."
+msgstr ""
+
+#: includes/admin/languages/_replica.php:54
+msgid "Kunjungi Halaman"
+msgstr ""
+
+#: includes/admin/metabox/user.php:88
+#: includes/admin/settings/general/main.php:236
+msgid "Kuota Client"
+msgstr ""
+
+#: includes/integrations/jet-form-builder/jfb.php:90
+msgid "Kuota klien Anda habis, silakan upgrade terlebih dahulu."
+msgstr ""
+
+#: includes/admin/metabox/user.php:83
+#: includes/admin/settings/addon/replica.php:173
+#: includes/admin/settings/general/main.php:218
+msgid "Kuota Undangan"
+msgstr ""
+
+#: includes/admin/settings/membership/upgrade.php:15
+msgid "Kupon Default"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:57
+#: includes/admin/settings/gateway/bank.php:25
+#: includes/admin/settings/gateway/duitku.php:69
+#: includes/admin/settings/gateway/midtrans.php:25
+#: includes/admin/settings/gateway/qris.php:25
+#: includes/admin/settings/gateway/tripay.php:80
+#: includes/admin/settings/gateway/xendit.php:25
+msgid "Kustom Ikon"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:56
+msgid "Kustom Subdomain Host"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:100
+msgid "Label Kode Unik"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:78
+msgid "Layout Form"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:47
+msgid "Layout Form Undangan"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:59
+msgid "Layout List Undangan"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:71
+msgid "Layout Tombol Action"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:181
+msgid "Lebar Maksimal Untuk Popup (px)"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:60
+msgid "Link Brand Default"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:33
+msgid "Link Dasbor Undangan"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:39
+msgid "Link Dukungan"
+msgstr ""
+
+#: includes/admin/metabox/user.php:200
+msgid "Link Facebook"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:15
+msgid "Link Halaman Setelah Login"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:21
+msgid "Link Halaman Setelah Logout"
+msgstr ""
+
+#: includes/admin/metabox/user.php:194
+msgid "Link Instagram"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:152
+msgid "Link Konfirmasi Pembayaran"
+msgstr ""
+
+#: includes/admin/settings/gateway/duitku.php:43
+#: includes/admin/settings/gateway/midtrans.php:90
+#: includes/admin/settings/gateway/tripay.php:54
+#: includes/admin/settings/gateway/xendit.php:88
+msgid "Link Pembayaran Langsung"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:27
+msgid "Link Pendaftaran"
+msgstr ""
+
+#: includes/admin/addons.php:71
+msgid "Link Produk"
+msgstr ""
+
+#: includes/admin/metabox/user.php:206
+msgid "Link Tiktok"
+msgstr ""
+
+#: includes/admin/metabox/user.php:212
+msgid "Link Twitter (X)"
+msgstr ""
+
+#: includes/admin/metabox/user.php:218
+msgid "Link Youtube"
+msgstr ""
+
+#. %1s: The product name, %2s: The support url
+#: includes/classes/handler.php:301
+#, php-format
+msgid ""
+"Lisensi %1$s belum dinonaktifkan. Silakan coba lagi. Jika tidak, silakan "
+"hubungi dukungan kami <a href=\"%2$s\" target=\"_blank\">di sini</a>."
+msgstr ""
+
+#. %1s: The product name, %2s: The support url
+#: includes/classes/handler.php:309
+#, php-format
+msgid ""
+"Lisensi %1$s tidak valid. Lisensi tersebut telah kedaluwarsa atau ada yang "
+"salah. Harap periksa kunci lisensi Anda dan coba lagi. Jika tidak, harap "
+"hubungi dukungan kami <a href=\"%2$s\" target=\"_blank\">di sini</a>."
+msgstr ""
+
+#. %s: The product name
+#: includes/classes/handler.php:287
+#, php-format
+msgid "Lisensi %s telah berhasil diaktifkan."
+msgstr ""
+
+#. %s: The product name
+#: includes/classes/handler.php:294
+#, php-format
+msgid "Lisensi %s telah berhasil dinonaktifkan."
+msgstr ""
+
+#. %s: The license date
+#: includes/admin/templates/license.php:26
+#, php-format
+msgid "Lisensi Anda berlaku sampai %s"
+msgstr ""
+
+#: includes/admin/templates/license.php:22
+msgid "Lisensi Anda berlaku seumur hidup"
+msgstr ""
+
+#: includes/admin/metabox/user.php:170
+msgid "Logo Brand"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:53
+msgid "Logo Brand Default"
+msgstr ""
+
+#: includes/admin/metabox/user.php:176
+msgid "Logo Link"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:41
+msgid "Logo untuk Mode Gelap"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:32
+msgid "Logo untuk Mode Terang"
+msgstr ""
+
+#: includes/integrations/elementor/commentpress.php:197
+msgid "Maaf, terdapat kesalahan. Ucapan tidak terkirim."
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:85
+msgid "Maksimal Jumlah Tamu"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:107
+msgid "Maksimal Kode Unik"
+msgstr ""
+
+#: includes/admin/metabox/user.php:31
+#: includes/admin/settings/general/main.php:191
+msgid "Masa Aktif"
+msgstr ""
+
+#: includes/admin/metabox/post.php:36
+#: includes/admin/settings/addon/replica.php:166
+msgid "Masa Aktif Undangan"
+msgstr ""
+
+#: includes/admin/engine/content/tracking.php:99
+msgid "Masukan hanya satu pixel saja."
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:23
+msgid "Masukkan dalam jumlah hari."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:57
+msgid "Masukkan domain utama yang ingin digunakan oleh reseller."
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:23
+msgid ""
+"Masukkan email domain yang diizinkan, pisahkan dengan koma dan tanpa spasi."
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:16
+msgid ""
+"Masukkan jumlah hari, jika Anda tidak ingin menggunakan fitur ini, biarkan "
+"kosong."
+msgstr ""
+
+#: includes/admin/engine/tools/optimization.php:76
+msgid ""
+"Masukkan kolom meta yang ingin Anda gunakan. Pisahkan dengan koma dan tanpa "
+"spasi. (Tidak mendukung galeri dan repeater)."
+msgstr ""
+
+#: includes/admin/engine/tools/validation.php:70
+msgid "Masukkan URL Instalasi OneSender domain utama."
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:15
+msgid "Mata Uang Default"
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:31
+msgid ""
+"Membatasi jumlah maksimum revisi yang diizinkan untuk postingan dan halaman."
+msgstr ""
+
+#: includes/admin/metabox/user.php:42
+#: includes/admin/settings/general/main.php:182
+msgid "Membership"
+msgstr ""
+
+#: includes/admin/engine/tools/optimization.php:62
+msgid ""
+"Menghapus semua media yang dilampirkan ke postingan ketika post / undangan "
+"dihapus."
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:51
+msgid ""
+"Mengontrol seberapa sering WordPress akan menyimpan postingan dan halaman "
+"secara otomatis saat mengedit."
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:53
+#: includes/admin/engine/tools/component.php:55
+#: includes/admin/engine/tools/component.php:56
+#: includes/admin/engine/tools/component.php:57
+#: includes/admin/engine/tools/component.php:58
+#: includes/admin/engine/tools/component.php:59
+#: includes/admin/engine/tools/component.php:60
+#: includes/admin/engine/tools/component.php:61
+#: includes/admin/engine/tools/component.php:62
+#: includes/admin/engine/tools/component.php:63
+msgid "Menit"
+msgstr ""
+
+#: includes/functions/invitation.php:575
+msgid "menit"
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:71
+msgid "Menonaktifkan fungsi XML-RPC WordPress."
+msgstr ""
+
+#: includes/admin/metabox/user.php:142
+msgid "Metode Pembayaran"
+msgstr ""
+
+#: includes/admin/settings/gateway/general.php:20
+msgid "Metode Pembayaran Aktif"
+msgstr ""
+
+#: includes/admin/metabox/user.php:148
+msgid "Metode Pembayaran Akun"
+msgstr ""
+
+#: includes/admin/settings/gateway/general.php:31
+msgid "Metode Pembayaran Default"
+msgstr ""
+
+#: includes/class-weddingsaas.php:95 includes/class-weddingsaas.php:105
+msgid "Metode Tidak Diizinkan."
+msgstr ""
+
+#: includes/functions/invitation.php:572
+msgid "minggu"
+msgstr ""
+
+#: includes/admin/engine/content/sales-proof.php:62
+msgid "Muncul penundaan antar notifikasi (detik)."
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:56
+msgid "Nama Bank"
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:68
+msgid "Nama Bank Manual"
+msgstr ""
+
+#: includes/admin/metabox/user.php:162
+msgid "Nama Brand"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:44
+msgid "Nama Brand Default"
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:74
+msgid "Nama Pemilik Rekening"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:159
+msgid "Nama Produk"
+msgstr ""
+
+#: includes/integrations/rankmath.php:96
+msgid ""
+"Nama Tamu, Hadiri pernikahan Putri dan Putra pada hari Minggu, 31 Desember "
+"2023!"
+msgstr ""
+
+#: includes/integrations/elementor/commentpress.php:93
+msgid "Next"
+msgstr ""
+
+#: includes/admin/metabox/user.php:48
+msgid "No HP/WhatsApp"
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:79
+msgid "No Rekening"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:160
+msgid "Nomor WhatsApp"
+msgstr ""
+
+#: includes/admin/templates/license.php:43
+msgid "Nonaktifkan"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:91
+msgid "Nonaktifkan Fitur Copy Link"
+msgstr ""
+
+#: includes/admin/settings/addon/theme.php:86
+msgid "Nonaktifkan Klik Kanan pada halaman undangan."
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:99
+msgid "Nonaktifkan penulis dan alihkan halaman ke beranda."
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:85
+msgid "Nonaktifkan sepenuhnya pencarian di situs web WordPress Anda."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:75
+msgid "Nonaktifkan Tombol"
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:78
+msgid ""
+"Nonaktifkan umpan RSS yang dihasilkan WordPress dan URL pengalihan 301 ke "
+"homepage."
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:36
+msgid "Nonaktifkan untuk user group"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:38
+msgid "Opsi Ikon"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:120
+msgid "Opsi Thumbnail"
+msgstr ""
+
+#: includes/admin/metabox/user.php:53
+msgid "Order ID"
+msgstr ""
+
+#: includes/admin/engine/tools/component.php:92
+msgid ""
+"Pada Media Library hanya menampilkan yang diunggah oleh pengguna yang sedang "
+"login."
+msgstr ""
+
+#: includes/admin/languages/_replica.php:119
+msgid "Panjang Subdomain"
+msgstr ""
+
+#: includes/admin/engine/engine/metaboxes.php:72
+msgid ""
+"Pastikan nama section sudah benar, apabila diganti maka dynamic tag yang "
+"sudah dihubungkan akan terlepas."
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:39
+msgid "Pemisah Desimal"
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:33
+msgid "Pemisah Ribuan"
+msgstr ""
+
+#: includes/integrations/jet-form-builder/jfb.php:167
+msgid "Pendaftaran Klien Anda telah berhasil."
+msgstr ""
+
+#: includes/classes/updater.php:288
+msgid "Perbarui sekarang."
+msgstr ""
+
+#: includes/admin/metabox/user.php:100
+msgid "Periode"
+msgstr ""
+
+#: includes/admin/settings/membership/share.php:147
+msgid "Pesan"
+msgstr ""
+
+#: includes/admin/settings/gateway/duitku.php:83
+#: includes/admin/settings/gateway/tripay.php:94
+msgid "Petunjuk"
+msgstr ""
+
+#: includes/admin/settings/gateway/general.php:21
+msgid "Pilih bagaimana Anda ingin pelanggan membayar Anda."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:127
+msgid "Pilih CPT"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:128
+msgid "Pilih CPT yang dapat diakses pada domain kustom."
+msgstr ""
+
+#: includes/admin/engine/content/custome-menu.php:44
+#: includes/admin/engine/tools/notification.php:81
+#: includes/admin/engine/tools/notification.php:137
+msgid "Pilih group"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:116
+msgid "Pilih Halaman"
+msgstr ""
+
+#: includes/admin/engine/content/sales-proof.php:79
+#: includes/admin/engine/tools/notification.php:71
+#: includes/admin/engine/tools/notification.php:127
+#: includes/admin/settings/addon/replica.php:108
+#: includes/admin/settings/addon/replica.php:118
+msgid "Pilih halaman"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:117
+msgid "Pilih halaman yang dapat diakses pada domain kustom."
+msgstr ""
+
+#: includes/admin/engine/content/sales-proof.php:78
+msgid "Pilih halaman yang ingin Anda tampilkan sales proof."
+msgstr ""
+
+#: includes/admin/engine/tools/notification.php:70
+#: includes/admin/engine/tools/notification.php:126
+msgid "Pilih halaman yang ingin ditampilkan."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:107
+msgid "Pilih Homepage"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:36
+#: includes/admin/settings/addon/replica.php:36
+msgid "Pilih Host"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:65
+msgid "Pilih Integrasi"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:42
+msgid "Pilih jenis integrasi RSVP."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:149
+msgid "Pilih kategori"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:24
+msgid "Pilih kolom"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:23
+msgid "Pilih kolom yang akan di sembunyikan."
+msgstr ""
+
+#: includes/admin/settings/membership/upgrade.php:16
+msgid "Pilih kupon default untuk checkout."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:48
+msgid "Pilih layout untuk formulir undangan."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:60
+msgid "Pilih layout untuk list undangan."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:72
+msgid "Pilih layout untuk tombol action."
+msgstr ""
+
+#: includes/admin/settings/gateway/general.php:32
+msgid "Pilih metode pembayaran yang akan digunakan secara default."
+msgstr ""
+
+#: templates/partials/jfb_scripts.php:25
+msgid "Pilih opsi"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:142
+msgid "Pilih opsi konfirmasi pembayaran."
+msgstr ""
+
+#: includes/admin/engine/content/tracking.php:53
+#: includes/admin/engine/content/tracking.php:63
+#: includes/admin/engine/content/tracking.php:73
+msgid "Pilih peristiwa"
+msgstr ""
+
+#: includes/admin/engine/content/tracking.php:52
+#: includes/admin/engine/content/tracking.php:62
+#: includes/admin/engine/content/tracking.php:72
+msgid "Pilih peristiwa pemuatan halaman."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:129
+msgid "Pilih post type"
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:70
+msgid "Pilih Post Type yang akan diaktifkan iframe."
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:60
+msgid "Pilih Post Type yang akan dibatasi."
+msgstr ""
+
+#: includes/admin/engine/content/custome-menu.php:54
+#: includes/admin/engine/tools/notification.php:147
+msgid "Pilih product"
+msgstr ""
+
+#: includes/admin/metabox/post.php:30 includes/admin/metabox/taxonomy.php:87
+msgid "Pilih Produk"
+msgstr ""
+
+#: includes/admin/addons.php:26 includes/admin/metabox/taxonomy.php:89
+#: includes/admin/metabox/user.php:68
+#: includes/admin/settings/membership/client.php:36
+#: includes/admin/settings/membership/invitation-edit.php:169
+#: includes/admin/settings/membership/upgrade.php:48
+#: includes/admin/settings/membership/upgrade.php:83
+#: includes/admin/settings/membership/upgrade.php:118
+msgid "Pilih produk"
+msgstr ""
+
+#: includes/admin/settings/membership/client.php:35
+msgid ""
+"Pilih produk untuk mengatur membership klien yang didaftarkan oleh reseller. "
+"Jika tidak dipilih, semua produk akan ditampilkan ke daftar produk."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:36
+msgid "Pilih status undangan setelah undangan dibuat."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:159
+msgid "Pilih subtema"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:30
+msgid "Pilih Taksonomi"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:31
+msgid "Pilih taksonomi"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:175
+msgid "Pilih Tema"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:176
+msgid "Pilih tema"
+msgstr ""
+
+#: includes/admin/metabox/post.php:109
+msgid "Pilih User Group"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:79
+msgid "Pilih versi layout untuk halaman edit undangan."
+msgstr ""
+
+#: includes/admin/settings/gateway/general.php:22
+#: includes/admin/settings/gateway/general.php:33
+msgid "Pilih..."
+msgstr ""
+
+#: includes/admin/engine/content/tracking.php:43
+msgid "Pisahkan id piksel dengan koma."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:196
+msgid "Platform Undangan Digital Terlengkap"
+msgstr ""
+
+#. %s: The PHP version
+#: includes/class-requirements-check.php:62
+#, php-format
+msgid ""
+"Plugin WeddingSaas membutuhkan versi PHP %s+ atau lebih tinggi, plugin saat "
+"ini TIDAK BERJALAN."
+msgstr ""
+
+#. %s: The WordPress version
+#: includes/class-requirements-check.php:70
+#, php-format
+msgid ""
+"Plugin WeddingSaas membutuhkan versi WordPress %s+. Karena Anda menggunakan "
+"versi sebelumnya, plugin saat ini TIDAK BERJALAN."
+msgstr ""
+
+#: includes/class-requirements-check.php:76
+msgid ""
+"Plugin WeddingSaas tidak dapat berjalan di multisite, harap ubah ke versi "
+"situs tunggal."
+msgstr ""
+
+#: includes/admin/settings/general/currency.php:22
+msgid "Posisi Mata Uang"
+msgstr ""
+
+#: includes/integrations/elementor/commentpress.php:94
+msgid "Previous"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:167
+msgid "Produk"
+msgstr ""
+
+#: includes/integrations/rankmath.php:20
+msgid "Putri & Putra, December 31, 2023"
+msgstr ""
+
+#: includes/admin/settings/gateway/qris.php:48
+msgid "QR Code"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:84
+msgid "Query tambahan pada tombol buka undangan."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:83
+msgid "Query Undangan"
+msgstr ""
+
+#: includes/admin/settings/membership/share.php:112
+msgid "Redirect Link jika undangan dibuka tanpa nama tamu"
+msgstr ""
+
+#: includes/admin/engine/shortcode/theme.php:20
+msgid "Reload halaman ketika klik simpan."
+msgstr ""
+
+#: includes/admin/settings/membership/main.php:59
+msgid "Restrict Content"
+msgstr ""
+
+#: includes/integrations/elementor/commentpress.php:212
+msgid "RSVP ditutup."
+msgstr ""
+
+#: includes/admin/engine/content/sales-proof.php:16
+msgid ""
+"Sales proof ditampilkan di halaman checkout dan halaman yang Anda pilih."
+msgstr ""
+
+#: includes/admin/templates/order-details.php:239
+msgid "Save"
+msgstr ""
+
+#: includes/admin/settings/membership/reseller.php:22
+msgid "Sembunyikan Kolom"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:107
+msgid "Sembunyikan Opsi Kehadiran"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:114
+msgid "Sembunyikan Opsi Masih Ragu"
+msgstr ""
+
+#: includes/admin/engine/content/auto-insert.php:8
+#: includes/admin/settings/membership/invitation-edit.php:9
+msgid "Semua Kategori"
+msgstr ""
+
+#: includes/functions/user.php:614
+msgid "Semua User Group"
+msgstr ""
+
+#: includes/admin/engine/_modules.php:15
+msgid "Setelah aktif/nonaktif module, silahkan simpan dan refresh."
+msgstr ""
+
+#: includes/admin/settings/gateway/general.php:15
+msgid ""
+"Setelah memilih metode pembayaran, silahkan simpan lalu reload terlebih "
+"dahulu."
+msgstr ""
+
+#: includes/classes/cron.php:42
+msgid "Setiap 15 Menit"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:211
+msgid "Setuju"
+msgstr ""
+
+#: includes/admin/settings/membership/share.php:142
+msgid "Share Undangan ke Client Reseller"
+msgstr ""
+
+#: includes/admin/languages/fields.php:34
+msgid "Silahkan simpan & reload setelah mengganti bahasa default."
+msgstr ""
+
+#: weddingsaas.php:184
+msgid ""
+"Situs Anda sudah mengaktifkan WeddingSaas (Pro). Jika Anda ingin beralih ke "
+"WeddingSaas (Lite), pertama-tama buka Plugins → Installed Plugins dan "
+"nonaktifkan WeddingSaas (Pro). Kemudian, Anda dapat mengaktifkan WeddingSaas "
+"(Lite)."
+msgstr ""
+
+#: includes/admin/metabox/user.php:16
+msgid "Status"
+msgstr ""
+
+#: includes/admin/metabox/user.php:128
+msgid "Status Affiliasi"
+msgstr ""
+
+#: includes/admin/settings/membership/client.php:46
+msgid "Status Afiliasi Klien"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:173
+msgid "Status Akun"
+msgstr ""
+
+#: includes/admin/metabox/user.php:111
+#: includes/admin/settings/membership/invitation.php:35
+msgid "Status Undangan"
+msgstr ""
+
+#: includes/admin/metabox/user.php:112
+msgid "Status undangan saat kadaluwarsa."
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:157
+msgid "Sub Tema"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:143
+msgid "Subdomain Dihapus"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:137
+msgid "Subdomain Diperbarui"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:131
+msgid "Subdomain Ditambahkan"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:101
+msgid "Subdomain Kosong"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:113
+msgid "Subdomain Salah"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:125
+msgid "Subdomain Sudah Digunakan"
+msgstr ""
+
+#: includes/admin/languages/_replica.php:107
+msgid "Subdomain Tidak Tersedia"
+msgstr ""
+
+#: includes/core/abstracts/notification.php:133
+msgid "Subjek harus didefinisikan."
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:178
+msgid "Syarat & Ketentuan"
+msgstr ""
+
+#: includes/admin/metabox/user.php:104
+#: includes/admin/settings/addon/replica.php:167
+msgid "Tahun"
+msgstr ""
+
+#: includes/functions/invitation.php:570
+msgid "tahun"
+msgstr ""
+
+#: includes/admin/settings/gateway/bank.php:17
+#: includes/admin/settings/gateway/duitku.php:61
+#: includes/admin/settings/gateway/midtrans.php:17
+#: includes/admin/settings/gateway/qris.php:17
+#: includes/admin/settings/gateway/tripay.php:72
+#: includes/admin/settings/gateway/xendit.php:17
+msgid "Tampilkan Ikon"
+msgstr ""
+
+#: includes/objects/coupon.php:416
+msgid "Tanpa kupon"
+msgstr ""
+
+#: includes/admin/engine/tools/validation.php:22
+msgid "Tanpa Validasi Email"
+msgstr ""
+
+#: includes/admin/engine/tools/validation.php:45
+msgid "Tanpa Validasi WhatsApp"
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:16
+msgid "Target url pengalihan untuk tautan afiliasi umum."
+msgstr ""
+
+#: includes/admin/settings/general/affiliate.php:15
+msgid "Tautan Afiliasi Umum"
+msgstr ""
+
+#: includes/frontend/main.php:189 includes/frontend/main.php:197
+msgid "Tautan aktivasi tidak valid."
+msgstr ""
+
+#: includes/admin/settings/membership/share.php:120
+msgid "Teks Pengantar"
+msgstr ""
+
+#: includes/functions/template.php:64
+msgid "Template tidak ditemukan."
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:129
+msgid "Tenggat waktu"
+msgstr ""
+
+#: templates/shortcode/audio.php:51
+msgid ""
+"Tentukan waktu berakhir (dalam detik). Kosongkan jika ingin selesai sampai "
+"akhir."
+msgstr ""
+
+#: templates/shortcode/audio.php:45
+msgid ""
+"Tentukan waktu mulai (dalam detik). Kosongkan jika ingin mulai dari awal."
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:76
+msgid "Terbaru"
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:77
+msgid "Terlama"
+msgstr ""
+
+#: includes/integrations/elementor/default-meta.php:111
+msgid "Tgl Bulan Tahun"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:132
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:138
+msgid "Thumbnail URL"
+msgstr ""
+
+#: includes/classes/builder.php:533
+msgid "Tidak ada data yang dapat dimasukkan"
+msgstr ""
+
+#: includes/admin/metabox/user.php:18 includes/admin/metabox/user.php:131
+msgid "Tidak Aktif"
+msgstr ""
+
+#: includes/frontend/classes.php:194
+msgid "Tidak dapat memuat template."
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:89
+msgid "Tipe Kode Unik"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:141
+msgid "Tipe Konfirmasi Pembayaran"
+msgstr ""
+
+#: includes/classes/builder.php:566 includes/classes/builder.php:604
+msgid "Tolong berikan kolom dimana"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:179
+msgid "Tombol Daftar"
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:152
+msgid "Tombol Header"
+msgstr ""
+
+#: includes/admin/settings/membership/upgrade.php:58
+msgid "Tombol Upgrade Ketika Kadaluarsa Untuk Reseller"
+msgstr ""
+
+#: includes/admin/settings/membership/upgrade.php:23
+msgid "Tombol Upgrade Ketika Kadaluarsa Untuk Trial & Member"
+msgstr ""
+
+#: includes/admin/settings/membership/upgrade.php:93
+msgid "Tombol Upgrade Ketika Kuota Habis Untuk Reseller"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:227
+msgid "Total Client"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:245
+msgid "Total Pendapatan"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:200
+msgid "Total Ucapan"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:209
+msgid "Total Undangan"
+msgstr ""
+
+#: includes/admin/settings/general/main.php:51
+#: includes/admin/settings/general/main.php:60
+msgid "Ukuran yang disarankan adalah 1920 X 1080 piksel."
+msgstr ""
+
+#: includes/admin/engine/content/sales-proof.php:25
+msgid "Ukuran yang disarankan adalah 250 X 250 piksel."
+msgstr ""
+
+#: includes/admin/settings/addon/replica.php:146
+#: includes/admin/settings/general/main.php:24
+#: includes/admin/settings/general/main.php:69
+msgid "Ukuran yang disarankan adalah 256 X 256 piksel."
+msgstr ""
+
+#: includes/admin/settings/general/main.php:33
+#: includes/admin/settings/general/main.php:42
+msgid "Ukuran yang disarankan adalah 365 X 70 piksel."
+msgstr ""
+
+#: includes/admin/settings/membership/rsvp.php:67
+msgid "Ukuran yang disarankan adalah 50 X 50 piksel."
+msgstr ""
+
+#: includes/admin/metabox/taxonomy.php:51
+#: includes/admin/metabox/taxonomy.php:58
+#: includes/admin/settings/general/main.php:78
+#: includes/admin/settings/general/main.php:174
+#: includes/admin/settings/general/main.php:183
+#: includes/admin/settings/general/main.php:192
+#: includes/admin/settings/general/main.php:201
+#: includes/admin/settings/general/main.php:210
+#: includes/admin/settings/general/main.php:219
+#: includes/admin/settings/general/main.php:228
+#: includes/admin/settings/general/main.php:237
+#: includes/admin/settings/general/main.php:246
+#: includes/admin/settings/membership/invitation-edit.php:131
+#: includes/admin/settings/membership/marketing.php:48
+msgid "Ukuran yang disarankan adalah 64 X 64 piksel."
+msgstr ""
+
+#: includes/admin/templates/product.php:165
+msgid "Untuk akses download, silahkan atur di \"post type <b>WDS Access</b>\"."
+msgstr ""
+
+#: includes/integrations/rankmath.php:131
+msgid "Untuk menampilkan deskripsi halaman."
+msgstr ""
+
+#: includes/integrations/rankmath.php:94
+msgid "Untuk menampilkan deskripsi undangan."
+msgstr ""
+
+#: includes/integrations/rankmath.php:61
+msgid "Untuk menampilkan judul halaman."
+msgstr ""
+
+#: includes/integrations/rankmath.php:18
+msgid "Untuk menampilkan judul undangan."
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:144
+msgid "URL"
+msgstr ""
+
+#: includes/admin/metabox/user.php:25
+msgid "User Grup"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:81
+#: includes/admin/settings/membership/invitation.php:50
+#: includes/admin/settings/membership/invitation.php:74
+msgid "Versi 1"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:62
+msgid "Versi 1 (Table)"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation-edit.php:82
+#: includes/admin/settings/membership/invitation.php:51
+#: includes/admin/settings/membership/invitation.php:75
+msgid "Versi 2"
+msgstr ""
+
+#: includes/admin/settings/membership/invitation.php:63
+msgid "Versi 2 (Grid)"
+msgstr ""
+
+#. the plugin name.
+#: includes/classes/updater.php:258
+#, php-format
+msgid "Versi baru %1$s telah tersedia."
+msgstr ""
+
+#: templates/shortcode/audio.php:43
+msgid "Waktu Mulai"
+msgstr ""
+
+#: templates/shortcode/audio.php:49
+msgid "Waktu Selesai"
+msgstr ""
+
+#. Name of the plugin
+msgid "WeddingSaas Membership Pro"
+msgstr ""
+
+#. Author of the plugin
+msgid "WeddingSaas Team"
+msgstr ""
+
+#: includes/admin/settings/general/transaction.php:145
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/functions/invitation.php:567
+msgid "yang lalu"
+msgstr ""
+
+#: templates/shortcode/audio.php:38
+msgid "Youtube Link"
+msgstr ""
